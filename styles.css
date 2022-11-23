@@ -1,0 +1,246 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #8dcd63;
+    justify-content: space-between;
+} 
+
+.logo {
+    display: flex;
+}
+
+.logo {
+    float: left;
+}
+
+.logo a 
+.contacts a {
+    font-size: 22;
+    color: #39930d;
+    text-decoration: none;
+    text-align: right;
+}
+
+.element style {
+    display: block;
+    margin: 8px;
+}
+
+.logo b {
+    padding-right: 34px;    
+}
+
+.header {
+    display: flex;
+    justify-content:space-between;
+    padding: 25px 0;
+}
+
+.main-text a {
+    width: 599px;
+    font-size: 14px;
+    line-height: 21px;
+    color: #343434;
+    font-family: "Arial";
+}
+
+.wrapper{
+    margin: 0 auto;
+    max-width: 960px;
+    box-sizing: border-box;
+    background-color: #fff;
+    display: block;
+    padding:0 15px;
+}
+
+.logo,
+.logo p,
+.logo img{
+    float: left;
+} 
+
+.logo p,
+.contacts a {
+    font-size: 22px;
+    color: #39930d;
+    color: #39930d;
+    text-decoration: none;
+} 
+
+.logo img {
+    margin:0 35px;
+}
+
+.contacts p {
+    text-align: right;
+}
+
+.logo p,
+.contacts p, 
+.logo img {
+    margin: 0;
+}
+
+.logo b {
+    display: block;
+    font-size: 44px;
+    color: #39930d;
+    display: flex
+}
+
+.menu a {
+    font-size: 14px;
+    line-height: 2em;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #39930d;
+    font-family: "Arial";
+}
+
+.logo i,
+.contacs i {
+    font-size: 14px;
+    color: #5a5a5a;
+}
+  
+.menu a {
+    font-size: 14px;
+    line-height: 2em;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #39930d;
+}
+
+.menu a {
+    font-size: 50px;
+    color:#39930d;
+}
+
+.manin-picture {
+    display: 100%;
+}
+
+.main-text {
+    float: left;
+    max-width: 550px
+}
+
+.contacots h1 {
+    font-size: 14px;
+    color: #39930d;
+}
+
+.main-text {
+    float: left;
+}
+
+.main-text h1 {
+    color: #39930d;
+}
+
+main h1 {
+    font-size: 24px;
+    color: #39930d
+}
+
+main p {
+    font-size: 14px;
+    line-height: 1.5em;
+    color:  #343434
+}
+
+.main-text {
+    float: left;
+    max-width: 600;
+}
+
+menu p {
+    padding: 9px 20px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #39930d;
+}
+
+menu {                             
+    font-size: 14px,20px;
+    line-height: 2em;
+    text-decoration:underline ;
+    background-color: #39930d
+}
+
+main menu {
+   font-size: 14px;
+   line-height: 2em;
+   text-decoration: underline;
+   text-decoration: uppercase; 
+   color: #39930d
+}
+
+footer {
+    font-size: 14px;
+    color: #3fff
+    background-color #39930d 
+}
+
+.menu p {
+    padding: 16px 20px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.menu a {
+    font-size: 14px;
+    line-height: 2em;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #39930d;
+}
+
+.logo p {
+    font-size: 22px;
+    color: #39930d;
+    font-family: "Arial";
+}
+
+.logo b {
+    font-size: 44px;
+    color: #39930d;
+}
+
+.logo i {
+    font-size: 14px;
+    color: #5a5a5a;
+    font-style: italic;
+}
+
+.main {
+    width: 940px;
+    background-color: #ffffff;
+    display: flex;
+}
+
+.main menu {
+    width: 300px;
+    height: 43px;
+    background-color: #39930d
+}
+
+.menu a {
+    font-size: 14px;
+    line-height: 2em;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #39930d;
+}
+
+.menu p {
+    width: 301px;
+    padding: 15px;
+    background-color: #39930d;
+}
+
+.footer {
+    padding: 15px 15px;
+    background-color: #39930d;
+    color: #fff;
+}
