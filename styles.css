@@ -124,8 +124,8 @@ body {
 }
 
 .main-text h1 {
-    font-size: 14px;
     color: #39930d;
+    font-size: 24px;
     font-family: "Arial";
     font-weight: bold;
 }
@@ -214,8 +214,8 @@ footer {
 }
 
 .main {
-    width: 940px;
     background-color: #ffffff;
+    justify-content: space-between;
     display: flex;
 }
 
