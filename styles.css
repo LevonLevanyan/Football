@@ -27,7 +27,7 @@ body {
     padding-right: 34px;    
 }
 
-.header {
+.header-line {
     display: flex;
     justify-content:space-between;
     padding: 25px 0;
@@ -119,8 +119,8 @@ body {
 }
 
 .main-text {
-    flex: left;
     max-width: 550px;
+    padding: 15px;
 }
 
 .main-text h1 {
@@ -130,60 +130,32 @@ body {
     font-weight: bold;
 }
 
-.main-text {
-    flex: left;
-}
-
-.main-text h1 {
-    color: #39930d;
-}
-
-main h1 {
-    font-size: 24px;
-    color: #39930d
-}
-
 main p {
     font-size: 14px;
     line-height: 1.5em;
     color:  #343434
 }
 
-.main-text {
-    flex: left;
-    max-width: 600;
+.nav ul {
+    list-style: none;
+    padding-left: 20px;
 }
 
-menu p {
-    padding: 9px 20px;
-    font-size: 18px;
-    color: #fff;
-    background-color: #39930d;
-}
-
-menu {                             
-    font-size: 14px,20px;
-    line-height: 2em;
-    text-decoration:underline ;
-    background-color: #39930d
-}
-
-main menu {
+.main menu {
    font-size: 14px;
    line-height: 2em;
    text-decoration: underline;
    text-decoration: uppercase; 
-   color: #39930d
+   color: #39930d;
 }
 
 footer {
     font-size: 14px;
-    color: #3fff
-    background-color #39930d 
+    color: #3fff;
+    background-color:#39930d; 
 }
 
 .menu p {
-    padding: 16px 20px;
     font-size: 18px;
     color: #fff;
 }
@@ -194,6 +166,15 @@ footer {
     text-decoration: underline;
     text-transform: uppercase;
     color: #39930d;
+    display: block;
+}
+
+.menu a:hover {
+    background-color: #5a5a5a;
+    color:#fff;
+    padding-left: 20px;
+    text-decoration: none;
+    transition: padding 1s;
 }
 
 .logo p {
@@ -219,11 +200,6 @@ footer {
     display: flex;
 }
 
-.main menu {
-    width: 300px;
-    background-color: #39930d
-}
-
 .menu {
     width: 300px;
 }
@@ -245,5 +221,5 @@ footer {
     padding: 15px 15px;
     background-color: #39930d;
     color: #fff;
-    margin: 0px -15px;
+    margin: 0 -15px;
 }
