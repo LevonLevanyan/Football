@@ -120,7 +120,6 @@ body {
 
 .main-text {
     max-width: 550px;
-    padding: 15px;
 }
 
 .main-text h1 {
@@ -131,7 +130,7 @@ body {
     padding: 5px;
 }
 
-main p {
+.main p {
     font-size: 14px;
     line-height: 1.5em;
     color:  #343434
