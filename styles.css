@@ -33,7 +33,7 @@ body {
     padding: 25px 0;
 }
 
-.main-text a {
+.main-text  {
     width: 599px;
     font-size: 14px;
     line-height: 21px;
@@ -41,7 +41,7 @@ body {
     font-family: "Arial";
 }
 
-.wrapper{
+.wrapper {
     margin: 0 auto;
     max-width: 960px;
     box-sizing: border-box;
@@ -130,11 +130,11 @@ body {
     padding: 5px;
 }
 
-.main p {
+/* .main p {
     font-size: 14px;
     line-height: 1.5em;
-    color:  #343434
-}
+    color:  #343434;
+} */
 
 .nav ul {
     list-style: none;
